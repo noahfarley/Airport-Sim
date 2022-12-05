@@ -6,7 +6,7 @@ Noah Farley, Markus Garretson, and Khang Nguyen
 This simulation is used to better understand how airports funcation depending on the amount of planes being serviced
 
 # How to use:
-cell 1: #run first
+#cell 1: #run first
     used to import and initailize starting vars
 cell 4: #run second
     used to initailize all functions and classes
