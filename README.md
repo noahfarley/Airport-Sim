@@ -1,6 +1,4 @@
-# Airport-Sim
-
-# SYST 230 project
+# Airport-Sim: SYST 230 project
 Authors:
 Noah Farley, Markus Garretson, and Khang Nguyen
 
